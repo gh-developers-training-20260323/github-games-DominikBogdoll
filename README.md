@@ -6,4 +6,6 @@ You can play the game at: https://gh-developers-training-20260323.github.io/gith
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
+Hallo, new change 
+
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
